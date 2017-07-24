@@ -12,6 +12,7 @@
 <h3>Home</h3>
 
 <a href=<c:url value="/Servlet1"/>>test</a>
+<a href=<c:url value="/Servlet2"/>>test</a>
 
 </body>
 </html>
